@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Sumit Shukla from Lucknow<br><br>- 🔭 I’m working as Frontend-Developer<br>- 📚 I'm currently learning JAVA<br>- ⚡ In my free time I love to do Coading</p>
+- 🔭 I’m working as Frontend-Developer<br>- 📚 I'm currently learning JAVA<br>- ⚡ In my free time I love to do Coading</p>
 
 ###
 
