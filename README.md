@@ -3,6 +3,9 @@
 </div>
 
 ###
+<h1 align="center">hey there 👋</h1>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sumitshuklaa" target="_blank">
@@ -20,8 +23,6 @@
 </div>
 
 ###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
