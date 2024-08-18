@@ -30,7 +30,7 @@
 
 ###
 
-<br>- 🔭 I’m working as Frontend-Developer<br>- 📚 I'm currently learning JAVA<br>- ⚡ In my free time I love to do Coading<br>- 📫 How to reach:</p>
+<br>- 🔭 I’m working as Frontend-Developer<br>- 📚 I'm currently learning JAVA<br>- ⚡ In my free time I love to do Coading<br>- 📫 How to reach: sumitsh66@gmail.com</p>
 
 ###
 
